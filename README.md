@@ -2,13 +2,13 @@
 
 
 
-1. This application is start using this window,In this window you will be asked to register using email, the email here is only used for verification, after that you can enter the username and password that you registered previously.
+1.This application is start using this window,In this window you will be asked to register using email, the email here is only used for verification, after that you can enter the username and password that you registered previously.
 
 
 
 <img width="824" height="1028" alt="Image" src="https://github.com/user-attachments/assets/91915e79-7c51-40a7-99f3-8d148d679b2c" />
 
-2. In this section, you will be asked to enter a maintenance username and password. For the first time, you will get a username (admin) and password (admin), but you can also add another username using the register button.
+2.In this section, you will be asked to enter a maintenance username and password. For the first time, you will get a username (admin) and password (admin), but you can also add another username using the register button.
 
 
 <img width="2054" height="1240" alt="Image" src="https://github.com/user-attachments/assets/5488be6d-02d0-494e-862a-92307c6511b9" />
