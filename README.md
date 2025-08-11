@@ -9,3 +9,11 @@
 <img width="824" height="1028" alt="Image" src="https://github.com/user-attachments/assets/91915e79-7c51-40a7-99f3-8d148d679b2c" />
 
 2. In this section, you will be asked to enter a maintenance username and password. For the first time, you will get a username (admin) and password (admin), but you can also add another username using the register button.
+
+
+<img width="2054" height="1240" alt="Image" src="https://github.com/user-attachments/assets/5488be6d-02d0-494e-862a-92307c6511b9" />
+<img width="2076" height="1256" alt="Image" src="https://github.com/user-attachments/assets/caa92e68-540d-43e8-a368-624c6d9f4668" />
+
+3.After logging in, you will appear in the main menu, which will contain maintenance activities. To start, you can add the location name, machine name and the most frequently occurring problems in production in the settings section (register production).
+
+
