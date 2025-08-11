@@ -17,3 +17,13 @@
 3.After logging in, you will appear in the main menu, which will contain maintenance activities. To start, you can add the location name, machine name and the most frequently occurring problems in production in the settings section (register production).
 
 
+<img width="2024" height="1206" alt="Image" src="https://github.com/user-attachments/assets/d1b859c0-9e61-4a00-80b7-19de2dea8332" />
+
+<img width="2010" height="1182" alt="Image" src="https://github.com/user-attachments/assets/92c3de90-a948-4387-bc7b-a214a1d77221" />
+
+<img width="2030" height="1282" alt="Image" src="https://github.com/user-attachments/assets/a812ce2c-aba3-4234-9e51-249cfd462af5" />
+
+4.You can try to make an MTC call, when you finish calling, the response button will appear yellow, you can respond to the call by selecting the issue and then pressing the response button, after you respond to the issue, the close task button will turn yellow, you can close the issue by pressing the close task button and include the reason and how you resolved the issue
+
+
+
