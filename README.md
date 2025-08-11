@@ -25,5 +25,10 @@
 
 4.You can try to make an MTC call, when you finish calling, the response button will appear yellow, you can respond to the call by selecting the issue and then pressing the response button, after you respond to the issue, the close task button will turn yellow, you can close the issue by pressing the close task button and include the reason and how you resolved the issue
 
+<img width="2018" height="1210" alt="Image" src="https://github.com/user-attachments/assets/226f23c3-c1b2-4322-b478-b568ef9b9b3c" />
+5.After you complete the task, the task will be recorded in all tasks.
 
+<img width="2024" height="1224" alt="Image" src="https://github.com/user-attachments/assets/e57047db-b373-46e3-835a-8f2834a65251" />
+<img width="2046" height="1244" alt="Image" src="https://github.com/user-attachments/assets/70dc385e-9f01-4006-b05f-cb97dd954596" />
+6. This application is also equipped with a store, this function allows maintenance to easily check the available stock of parts, and is equipped with a store activity so that it makes it easier to check the retrieval of parts to repair the machine.
 
